@@ -21,7 +21,7 @@
   let scale = 1;
   let width = platformModule.screen.mainScreen.widthDIPs*scale;
   let height = (platformModule.screen.mainScreen.heightDIPs)*scale;
-  let numBalls = 20;
+  let numBalls = 25;
   let spring = 0.3;
   let gravity = -0.008;
   let friction = -0.3;
