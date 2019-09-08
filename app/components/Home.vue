@@ -259,7 +259,6 @@
     font-size: 12;
     color:dodgerblue;
     padding: 12;
-    background: none;
   }
   
 </style>
